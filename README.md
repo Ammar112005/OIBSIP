@@ -3,7 +3,8 @@
 ## Task 1: Landing Page
 - Simple landing page created using HTML & CSS
 - Features: Header, Hero section, About, Skills, Footer
-- [Live Demo]()
+- [Live Demo] https://ammar112005.github.io/OIBSIP/
+
 
 ## Task 2: Portfolio Website
 - Personal portfolio showcasing skills, projects, and contact info
